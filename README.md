@@ -1,6 +1,7 @@
 # senai-versoes-colaboracoes
 
-Teste 
-
+Testando README 
 
 lembrei do comando: git commit
+lembrei do comando: git status
+
